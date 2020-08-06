@@ -18,7 +18,7 @@ const styles = StyleSheet.create({
     fontFamily: 'Poppins_400Regular',
     fontSize: 20,
     lineHeight: 30,
-    marginTop: 50,
+    marginTop: 20,
   },
 
   titleBold: {
@@ -32,7 +32,7 @@ const styles = StyleSheet.create({
   },
 
   button: {
-    height: 100,
+    height: 150,
     width: '48%',
     backgroundColor: '#333',
     borderRadius: 8,
