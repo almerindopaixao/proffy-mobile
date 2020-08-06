@@ -19,7 +19,7 @@ export default function Landing() {
     }
 
     function handleNavigateToStudyPages() {
-      navigate('study');
+      navigate('Study');
     }
 
     return (
